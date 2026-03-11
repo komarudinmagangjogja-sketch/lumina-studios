@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+/vendor
+
+# environment
+.env
+.env.local
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# build
+/dist
+/build
+
+# laravel
+/storage/*.key
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
